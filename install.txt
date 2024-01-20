@@ -1,0 +1,4 @@
+creating virtual environment -- python -m venv venv
+activate virtual environment -- Set-ExecutionPolicy Bypass -Scope Process
+.\venv\Scripts\Activate.ps1
+deactivate -- deactivate
